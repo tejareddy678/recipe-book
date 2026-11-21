@@ -1,11 +1,8 @@
 1.Sugar,2.Flour
 Added Peat nut butter
 Added cream
-<<<<<<< HEAD
 Added Cheeries.
 Added some gems.
 Added some Candles.
 Added sprinkles.
-=======
->>>>>>> 3b133f8
 Decorations and name.
